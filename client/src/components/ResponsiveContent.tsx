@@ -69,7 +69,7 @@ const ResponsiveContent: React.FC = () => {
         <FadeIn>
           <div className="flex space-x-6">
             <Link
-              href="https://github.com/eriksthompson"
+              href="https://github.com/mintelekk"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400"
